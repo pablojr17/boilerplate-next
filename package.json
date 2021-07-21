@@ -11,7 +11,7 @@
   },
   "lint-staged": {
     "src/**/*": [
-      "yarn lin --fix"
+      "yarn lint --fix"
     ]
   },
   "dependencies": {
